@@ -1,9 +1,24 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "fbc5",
+      "author": "Chuabacca",
+      "title": "Hello there!"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "JSON server. Wow!", "postId": 1 }
+    {
+      "id": "1",
+      "body": "JSON server. Wow!",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
